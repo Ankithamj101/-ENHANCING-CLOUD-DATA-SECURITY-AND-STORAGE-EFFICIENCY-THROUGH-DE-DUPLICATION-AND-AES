@@ -1,5 +1,5 @@
 # -ENHANCING-CLOUD-DATA-SECURITY-AND-STORAGE-EFFICIENCY-THROUGH-DE-DUPLICATION-AND-AES
-[11:38 pm, 2/5/2025] Vanshika: The motivation behind this project lies in addressing the dual challenge faced by cloud storage systems: optimizing storage space while maintaining strict security controls. The demand for secure cloud storage is rapidly increasing due to the growing reliance on cloud-based services for personal, organizational, and government data storage.
+The motivation behind this project lies in addressing the dual challenge faced by cloud storage systems: optimizing storage space while maintaining strict security controls. The demand for secure cloud storage is rapidly increasing due to the growing reliance on cloud-based services for personal, organizational, and government data storage.
 Numerous real-world applications and scenarios emphasize the need for efficient deduplication combined with strong encryption:
 * Enterprise Data Management: Enterprises dealing with vast quantities of files for backups, archiving, and content sharing require storage solutions that are both secure and cost-effective.
 * Personal Cloud Storage: Users increasingly store personal data, including photos, documents, and videos, which often contain redundant files, increasing storage costs.
